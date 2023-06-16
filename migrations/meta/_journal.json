@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1686724798286,
+      "tag": "0000_amused_robbie_robertson",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1686733516654,
+      "tag": "0001_opposite_silhouette",
+      "breakpoints": false
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1686740437733,
+      "tag": "0002_absent_christian_walker",
+      "breakpoints": false
+    }
+  ]
+}
